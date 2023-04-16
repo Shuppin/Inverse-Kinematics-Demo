@@ -7,7 +7,8 @@ Welcome to my Inverse Kinematics Demo! This program demonstrates an inverse kine
  ---
 ## Demo
 Watch a quick demo of the program in action here:
-![demo pending]()
+
+https://user-images.githubusercontent.com/72602326/232327688-ab63eba4-7078-4385-b5c4-f4f4bf06dbc5.mp4
 
 > Note: Video compression may make the arm segments appear to jiggle, but the algorithm is stable and they are not actually jiggling.
 
@@ -15,7 +16,7 @@ Watch a quick demo of the program in action here:
 
 ## Installation
 
-You can either download a prebuilt version of the program by clicking [here (link pending)](), or run the program from source. 
+You can either download a prebuilt version of the program by clicking [here](https://github.com/Shuppin/Inverse-Kinematics-Demo/releases/tag/v1.0), or run the program from source. 
 
 ### Running from source 
 
